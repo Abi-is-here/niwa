@@ -2,6 +2,8 @@
 title: Cheatsheet
 date created: 2024-06-06T22:54
 date modified: 2024-08-06T00:25
+tags:
+- software
 ---
 
 ## For copy-pasting
@@ -18,9 +20,8 @@ git commit -m "Content update"; git push
 
 ## Sync content changes
 
-### TLDR
+`npx quartz sync`
 
-Been doing this via VS Code GitHub extension. Very convenient but I just need to pull upstream changes every once in a while. 
 
 ### Recommended way
 
@@ -29,26 +30,10 @@ git pull
 npx quartz sync
 ```
 
-### Alternative: with git reset
 
-To add anything non-`content`: 
+## Change icons
 
-```
-git add .
-git reset -- content
-```
-
-To add only `content`:
-
-```
-git add content
-```
-
-If added too many and want to remove from the commit but still preserve local changes:
-
-```
-git reset --mixed HEAD content* (or some other regex)
-```
+modify file found in `quartz/static/icon.png`
 
 ## Merge changes from upstream
 
@@ -129,5 +114,4 @@ Similar issue for graphs, except the problem is more with the button to see the 
 
 [Emoji Combos](https://emojicombos.com/) 
 
-## cool examples
 
