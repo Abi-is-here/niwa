@@ -14,8 +14,6 @@
 
 `git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
 
-inside tmux, call command `<prefix>+I`
-
 [More info here](https://github.com/tmux-plugins/tpm)
 
 ## Dotfile
