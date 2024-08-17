@@ -1,5 +1,5 @@
 ---
-title: Cheatsheet
+title: Quartz Cheatsheet
 date created: 2024-06-06T22:54
 date modified: 2024-08-06T00:25
 tags:
@@ -15,7 +15,7 @@ git commit -m "Content update"; git push
 ## links
 
  - [base](https://quartz.jzhao.xyz/)
- - [Eileen's notebool](https://quartz.eilleeenz.com/)
+ - [Eileen's notebook](https://quartz.eilleeenz.com/)
  - [github syntax highlighting](https://gist.github.com/vidaaudrey/14b121a491d889af019e#file-markdown-syntax-highlighting)
 
 ## Sync content changes

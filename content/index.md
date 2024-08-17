@@ -7,4 +7,4 @@ Welcome to my little space on the web! I plan on filling this with everything I 
 ## quick references
 
 - [[japanese/japanese]]
-- [[software/index| software]]
+- [[software/software| software]]
