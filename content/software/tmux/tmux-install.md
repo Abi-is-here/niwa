@@ -16,6 +16,12 @@
 
 [More info here](https://github.com/tmux-plugins/tpm)
 
+## bash command line
+
+`    PS1='\[\e[38;5;92m\]\u\[\e[0m\]|\[\e[38;5;214m\]\w\[\e[0m\]-> '`
+
+
+
 ## Dotfile
 
 ```bash title=".tmux.conf"
